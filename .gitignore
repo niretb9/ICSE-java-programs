@@ -1,0 +1,9 @@
+.vscode/
+/ignored_dir/
+*.json
+*.exe
+*.o
+*.ctxt
+*.class
+*.bluej
+*.DS_Store
